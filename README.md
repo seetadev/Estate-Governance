@@ -3,6 +3,7 @@ Real Estate Governance powered by FEVM and a suite of Filecoin blockchain protoc
 
 Enable effective registration and property transfer management, building maintenance communication and a technical solution for security and monitoring incidents using Filecoin powered by FEVM, Ethereum, IPFS, NFT.Storage and OSS AI; enable early detection and prevention of incidents.
 
+
 Platform Features:
 
 •Registration Management : Property Registration and Transfer Management using smart contracts compiled using EVM (title transfer.sol) and FEVM (house_tax.sol).
@@ -18,6 +19,8 @@ Platform Features:
 •Building Maintenance: Reminder and timely notifications for maintenance activities using an Alexa skill. 
 
 •Analysis : Analyzing incidents.
+
+Slides and Screenshots: https://drive.google.com/drive/u/3/folders/18mAiA9L8UItb_BgW4w47lnc5K4xgLDxm
 
 
 Registration Management: Please visit https://github.com/seetadev/Estate-Governance/tree/main/Registration-Management. Workflow of the app and deployment of smart contracts on EVM and FEVM at Registration Management Module (please visit https://drive.google.com/drive/u/3/folders/18mAiA9L8UItb_BgW4w47lnc5K4xgLDxm)
