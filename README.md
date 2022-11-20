@@ -20,6 +20,8 @@ Platform Features:
 •Analysis : Analyzing incidents.
 
 
+Registration Management: Please visit https://github.com/seetadev/Estate-Governance/tree/main/Registration-Management. Workflow of the app and deployment of smart contracts on EVM and FEVM at Registration Management Module (please visit https://drive.google.com/drive/u/3/folders/18mAiA9L8UItb_BgW4w47lnc5K4xgLDxm)
+
 Our platform solution offers an Artificial Intelligence-based object detection system that utilizes blockchain solutions for sorting information obtained from a variety of security cameras deployed at monitoring spots in the real estate.
 
 Our platform will provide the requisites features to share security conditions and remotely monitor the management policies in a place using used and broken phones and tablets, alarm clocks, internet connection, sync service, integration with IP cameras, raise safety alarms. The cost of deployment and added technology is limited which could help the businesses living in a variety of geographical regions. We also utilized open source ethercalc spreadsheets and its apis, compiled the smart contracts to EVM and FEVM for developing monitoring and a management application.
@@ -38,11 +40,15 @@ Alarm storage using Ethereum. Save/delete alarm metadata and image to/from IPFS 
 
 Alarm Viewer: Add alarms with a single touch. Open the Alarm Settings menu from the home page. Add an alarm, set the wallpaper or choose an alarm tone. You can also delete an existing alarm. 
 
-#FEVM
+#Filecoin and FEVM 
 
-Usage of Filecoin and FEVM: We are using Filecoin for storing a variety of offchain data like incident snapshots, alarm metadata and object types at the time of incident. Please find the demo video at  (demo.mp4 under demo directory at https://drive.google.com/drive/u/0/folders/18mAiA9L8UItb_BgW4w47lnc5K4xgLDxm). We are storing Alarm metadata using NFT.Storage. Also, Saving/deleting alarm metadata and image to/from IPFS using NFT.Storage. We are also storing the hash returned from IPFS to FEVM. Further we are using Filecoin for: Video analytics configuration using Filecoin/IPFS; Camera Management: Add/edit/delete cameras with integration with oss streaming; Live streaming with Object Detection Video Analytics, and NFT.Storage for snapshots.
+Our FEVM powered Filecoin solution will enable better coordination, enable safety at residential societies and real estate properties to be more effective, proactive, help in early prediction and prevention of incidents. Please find the slides and demo at the google drive link: https://drive.google.com/drive/u/3/folders/18mAiA9L8UItb_BgW4w47lnc5K4xgLDxm
 
-Our FEVM powered solution will enable better coordination, enable safety at residential societies and real estate properties to be more effective, proactive, help in early prediction and prevention of incidents. Please find the pitch deck and demo at the google drive link.
+We are using Filecoin for storing a variety of offchain data like incident snapshots, alarm metadata and object types at the time of incident. We are storing Alarm metadata using NFT.Storage. Also, Saving/deleting alarm metadata and image to/from IPFS using NFT.Storage. We are also storing the hash returned from IPFS to FEVM. Further we are using Filecoin for: Video analytics configuration using Filecoin/IPFS; Camera Management: Add/edit/delete cameras with integration with oss streaming; Live streaming with Object Detection Video Analytics, and NFT.Storage for snapshots. Please visit Please find the demo video at  (demo.mp4 under Monitoring Module directory at https://drive.google.com/drive/u/0/folders/18mAiA9L8UItb_BgW4w47lnc5K4xgLDxm)
+
+
+
+
 
 
 
