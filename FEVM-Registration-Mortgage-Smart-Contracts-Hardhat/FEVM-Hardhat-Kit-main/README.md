@@ -1,8 +1,10 @@
-# FEVM Hardhat Kit
+Our FEVM powered solution will enable better coordination, enable safety at residential societies and real estate properties to be more effective, proactive, help in early prediction and prevention of accidents/ incidents. Please find the details of Filecoin/IPFS powered solution with smart contracts compiled in EVM and FEVM:
 
-## Cloning the Repo
+Property Registration and Transfer Management using smart contracts compiled using EVM (title transfer.sol) and FEVM (house_tax.sol). The workflow of the app and deployment of smart contracts on EVM and FEVM at Registration Management Module (please visit https://drive.google.com/drive/u/3/folders/18mAiA9L8UItb_BgW4w47lnc5K4xgLDxm).      
 
-Open up your terminal (or command prompt) and navigate to a directory you would like to store this code on. Once there type in the following command:
+We are using Filecoin based FEVM lending pool library to enable third party administrators to issue mortgage loans and their reimbursement/claims to the home buyers in financial distress.                                  
+
+We are also using Filecoin for storing a variety of offchain data like incident snapshots, alarm metadata and object types at the time of incident. Please find the demo video at  (demo.mp4 under Monitoring demo directory at https://drive.google.com/drive/u/0/folders/18mAiA9L8UItb_BgW4w47lnc5K4xgLDxm). We are storing Alarm metadata using NFT.Storage. Also, Saving/deleting alarm metadata and image to/from IPFS using NFT.Storage. We are also storing the hash returned from IPFS to FEVM. Further we are using Filecoin for: Video analytics configuration using Filecoin/IPFS; Camera Management: Add/edit/delete cameras with integration with oss streaming; Live streaming with Object Detection Video Analytics, and NFT.Storage for snapshots.
 
 
 ```
