@@ -1,5 +1,5 @@
 # Estate-Governance
-Real Estate Governance powered by FEVM and a suite of Filecoin blockchain protocols and solutions.
+Real Estate Governance powered by FVM/FEVM and a suite of Filecoin blockchain protocols and solutions.
 
 Enable effective registration and property transfer management, building maintenance communication and a technical solution for security and monitoring incidents using Filecoin powered by FEVM, Ethereum, IPFS, NFT.Storage and OSS AI; enable early detection and prevention of incidents.
 
